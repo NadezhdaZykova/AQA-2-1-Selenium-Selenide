@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/yr5j69pix06gli5m/branch/main?svg=true)](https://ci.appveyor.com/project/NadezhdaZykova/aqa-2-1-selenium-selenide/branch/main)
